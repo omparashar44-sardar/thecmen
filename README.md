@@ -1,1 +1,2 @@
 # thecmen
+print('hello muza')
